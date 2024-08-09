@@ -1,2 +1,1 @@
-# MLWineDatasetAnalysis
-Machine Learning Algorithm Comparison on Wine Dataset
+The Aim of the project is to compare the performance of two machine learning algorithms, such as k-Nearest Neighbors (kNN) and Decision Trees, on the sklearn Wine dataset. The focus of this project is on identifying which algorithm performs better in classifying wine types based on their chemical characteristics. The finding was that the kNN algorithm performed better when the correct k is chosen. Otherwise, decision trees and kNN perform just as well as one another on this dataset.
